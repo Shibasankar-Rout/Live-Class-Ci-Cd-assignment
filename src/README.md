@@ -1,1 +1,1 @@
-both assignments are will be here
+Both assignments are Completed and Run Sucessfully
