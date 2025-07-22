@@ -23,7 +23,7 @@ jobs:
      runs-on: ubuntu-latest
      steps:
        - name: Download Artifact
-         uses: actions/download-artifact@v4
+         uses: actions/download-aartifact@v4
          with:
            name: My-artifact
            path: downloaded-artifact
